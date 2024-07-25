@@ -1,0 +1,15 @@
+# DB
+db_addr: 127.0.0.1:3306
+db_driver: mysql
+db_name: VxIntegrityDB
+db_user: root
+db_pwd: tx221912
+db_max_comm: 50
+# Other
+apiport: :9273
+websocket_port: :9283
+webpage_port: :16666
+# Limits
+max_query: 100000
+max_export: 100000
+max_system: 255
